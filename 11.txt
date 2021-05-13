@@ -1,1 +1,2 @@
 testdsfdfdf
+server main
