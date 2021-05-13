@@ -1,2 +1,4 @@
 testdsfdfdf
-cgwork
+
+server main
+
